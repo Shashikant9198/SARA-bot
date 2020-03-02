@@ -1,0 +1,44 @@
+{
+    "entities": [
+        {
+            "whitelist": [],
+            "cname": "Delhi"
+        },
+        {
+            "whitelist": [],
+            "cname": "Kolkata"
+        },
+        {
+            "whitelist": [],
+            "cname": "PUnjim"
+        },
+        {
+            "whitelist": [],
+            "cname": "Amritsar"
+        },
+        {
+            "whitelist": [],
+            "cname": "Dehradun"
+        },
+        {
+            "whitelist": [],
+            "cname": "Patna"
+        },
+        {
+            "whitelist": [],
+            "cname": "Mysore"
+        },
+        {
+            "whitelist": [],
+            "cname": "Ooty"
+        },
+        {
+            "whitelist": [],
+            "cname": "Banglore"
+        },
+        {
+            "whitelist": [],
+            "cname": "kedarnath"
+        }
+    ]
+}

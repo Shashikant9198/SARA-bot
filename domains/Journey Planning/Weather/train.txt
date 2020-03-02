@@ -1,0 +1,12 @@
+I am going to {Delhi|location} today and I wonder what is the weather out there?"
+Is the weather nice in {Kolkata|location} today
+Whats is the weather in {Patna|location} today?
+let me know weather of {Dehradun|location} out there,
+Whats is the weather in {Punjim|location} today?
+let me know weather of {Amritsar|location} out there,
+What's it like outside in {Mysore|location}?
+What's the temperature in {Ooty|location} right now.
+What's the weather forecast for the {Kedarnath|location} this week.
+Is it warm outsie today at {Banglore|location}
+
+
